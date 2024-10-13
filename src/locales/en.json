@@ -1,0 +1,35 @@
+{
+  "header": {
+    "addFilter": "Add Filter",
+    "switchToModalMode": "Switch to modal mode",
+    "filter": "Filter"
+  },
+  "button": {
+    "close": "Close",
+    "save": "Save"
+  },
+  "main": {
+    "savedFilters": "Saved filters",
+    "filterName": "Filter name",
+    "criteria": "Criteria",
+    "addRow": "Add row",
+    "selection": "Selection",
+    "enterFilterName": "Enter filter name",
+    "enterNumber": "Enter number",
+    "enterText": "Enter text",
+    "enterDate": "Enter date"
+  },
+  "value": {
+    "selection1": "Selection 1",
+    "selection2": "Selection 2",
+    "selection3": "Selection 3",
+    "greater": "greater",
+    "less": "less",
+    "equal": "equal",
+    "notEqual": "not equal",
+    "startsWith": "starts with",
+    "endsWith": "ends with",
+    "contains": "contains contains",
+    "doesNotContain": "does not contain"
+  }
+}
